@@ -43,9 +43,4 @@ The implementation is inspired by a [Code Review StackExchange post](http://code
 ## Dependencies
 - [OpenCV](https://opencv.org/): Ensure you have OpenCV installed and set up to run C++ applications that use the OpenCV library.
 
-## How to Run
-(Note: Execution instructions should be added here based on the project's build and run requirements.)
-
-## License
-(Note: License information should be added here if available.)
 
